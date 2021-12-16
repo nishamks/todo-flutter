@@ -22,7 +22,7 @@ class _SplashPageState extends State<SplashPage> {
   checkOnboarding() async {
     SharedPreferences prefs = await SharedPreferences.getInstance();
     final isDone = prefs.getBool('walkThrough') ?? false;
-    if (!isDone) {
+    if (isDone) {
       Navigator.of(context).pushAndRemoveUntil(
           MaterialPageRoute(builder: (context) => HomePage()),
           (Route<dynamic> route) => false);
