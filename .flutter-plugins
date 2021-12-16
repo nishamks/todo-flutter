@@ -1,0 +1,20 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/Users/nisham/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.14.3+1/
+cloud_firestore_web=/Users/nisham/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_web-0.2.1+1/
+connectivity=/Users/nisham/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity-3.0.6/
+connectivity_for_web=/Users/nisham/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_for_web-0.4.0+1/
+connectivity_macos=/Users/nisham/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/connectivity_macos-0.2.1+2/
+firebase_core=/Users/nisham/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.5.2+1/
+firebase_core_web=/Users/nisham/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-0.2.1+1/
+fluttertoast=/Users/nisham/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.8/
+nb_utils=/Users/nisham/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/nb_utils-4.4.7/
+path_provider=/Users/nisham/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.4/
+path_provider_linux=/Users/nisham/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.1.4/
+path_provider_macos=/Users/nisham/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.3/
+path_provider_windows=/Users/nisham/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.0.4/
+shared_preferences=/Users/nisham/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-2.0.7/
+shared_preferences_linux=/Users/nisham/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_linux-2.0.3/
+shared_preferences_macos=/Users/nisham/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-2.0.2/
+shared_preferences_web=/Users/nisham/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-2.0.2/
+shared_preferences_windows=/Users/nisham/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_windows-2.0.3/
+sqflite=/Users/nisham/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-2.0.1/
